@@ -10,11 +10,7 @@ Pod::Spec.new do |s|
 s.name             = 'libwebp'
 s.version          = '1.0.0'
 s.summary          = 'add libwebp.podspec'
-s.description      = <<-DESC Chinese ioser download libwebp from https://chromium.googlesource.com/webm/libwebp very difficulty.
-							 Want use source form https://github.com/webmproject/libwebp.git,
-							 so need add libwebp.podspec.
-DESC
-
+s.description      = 'Chinese ioser download libwebp from https://chromium.googlesource.com/webm/libwebp very difficulty.Want use source form https://github.com/webmproject/libwebp.git,so need add libwebp.podspec.'
 s.homepage         = 'https://chromium.googlesource.com/webm/libwebp'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'kongshenyue' => 'eenjoyios@foxmail.com' }
